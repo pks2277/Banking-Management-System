@@ -1,0 +1,14 @@
+C:\Users\prakh\source\repos\BankingMangementSystem\bin\Debug\net8.0\BankingMangementSystem.exe
+C:\Users\prakh\source\repos\BankingMangementSystem\bin\Debug\net8.0\BankingMangementSystem.deps.json
+C:\Users\prakh\source\repos\BankingMangementSystem\bin\Debug\net8.0\BankingMangementSystem.runtimeconfig.json
+C:\Users\prakh\source\repos\BankingMangementSystem\bin\Debug\net8.0\BankingMangementSystem.dll
+C:\Users\prakh\source\repos\BankingMangementSystem\bin\Debug\net8.0\BankingMangementSystem.pdb
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\BankingMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\BankingMangementSystem.AssemblyInfoInputs.cache
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\BankingMangementSystem.AssemblyInfo.cs
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\BankingMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\BankingMangementSystem.dll
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\refint\BankingMangementSystem.dll
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\BankingMangementSystem.pdb
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\BankingMangementSystem.genruntimeconfig.cache
+C:\Users\prakh\source\repos\BankingMangementSystem\obj\Debug\net8.0\ref\BankingMangementSystem.dll
